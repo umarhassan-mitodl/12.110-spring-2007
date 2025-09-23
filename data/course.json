@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "legacy_uid": "e9bdea1f-fb53-3268-e2e0-9be985bc2af5",
+  "instructors": {
+    "content": [
+      "848ddbf7-a2b7-7b9a-beb9-99f8f495167c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1b9123d7-217a-15f6-6f33-dbe579ac1f52",
+    "website": "12-110-sedimentary-geology-spring-2007"
+  },
+  "course_title": "Sedimentary Geology",
+  "course_description": "Survey of the important aspects of modern sediments and ancient sedimentary rocks. Emphasis is on fundamental materials, features, and processes. Textures of siliciclastic sediments and sedimentary rocks: particle size, particle shape, and particle packing. Mechanics of sediment transport. Survey of siliciclastic sedimentary rocks: sandstones, conglomerates, and shales. Carbonate sediments and sedimentary rocks; cherts; evaporites. Siliciclastic and carbonate diagenesis. Paleontology, with special reference to fossils in sedimentary rocks. Modern and ancient depositional environments. Stratigraphy. Sedimentary basins. Fossil fuels: coal, petroleum.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.110",
+  "course_image_thumbnail": {
+    "content": "a38d6023-688f-1a4d-a6f4-e93f7a01dbd1",
+    "website": "12-110-sedimentary-geology-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "6720a331-15b2-4a5c-97c7-79fd97f50659",
+  "site_short_id": "12.110-spring-2007",
+  "site_url_path": "courses/12-110-sedimentary-geology-spring-2007",
+  "title": "Course Metadata"
+}

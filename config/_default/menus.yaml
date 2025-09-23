@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 9bd94be4-6e1b-74cb-24b0-5012a0b96eae
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 9bcbba57-764e-55d8-8a7d-1338c3dd203e
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 9da9bfb1-38fe-1db6-a4b6-3ef88b8243cf
+  name: Field Trip
+  pageRef: /pages/field-trip
+  weight: 30
