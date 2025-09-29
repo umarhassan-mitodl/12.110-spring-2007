@@ -38,6 +38,7 @@
     "website": "12-110-sedimentary-geology-spring-2007"
   },
   "course_title": "Sedimentary Geology",
+  "hide_download": true,
   "course_description": "Survey of the important aspects of modern sediments and ancient sedimentary rocks. Emphasis is on fundamental materials, features, and processes. Textures of siliciclastic sediments and sedimentary rocks: particle size, particle shape, and particle packing. Mechanics of sediment transport. Survey of siliciclastic sedimentary rocks: sandstones, conglomerates, and shales. Carbonate sediments and sedimentary rocks; cherts; evaporites. Siliciclastic and carbonate diagenesis. Paleontology, with special reference to fossils in sedimentary rocks. Modern and ancient depositional environments. Stratigraphy. Sedimentary basins. Fossil fuels: coal, petroleum.\n",
   "department_numbers": [
     "12"
@@ -48,6 +49,7 @@
     "content": "a38d6023-688f-1a4d-a6f4-e93f7a01dbd1",
     "website": "12-110-sedimentary-geology-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Activity Assignments with Examples"

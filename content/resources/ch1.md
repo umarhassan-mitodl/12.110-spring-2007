@@ -4,6 +4,8 @@ description: Lecture notes about the nature, description, and classification of 
 file: /courses/12-110-sedimentary-geology-spring-2007/53152e7892f4fb1c2eb1b94f19362e6d_ch1.pdf
 file_size: 1112232
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

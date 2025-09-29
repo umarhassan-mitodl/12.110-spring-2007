@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides sample student reports on a four-day field trip
   in southern Nevada and southern California.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Field Trip

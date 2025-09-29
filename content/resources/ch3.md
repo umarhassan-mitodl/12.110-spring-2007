@@ -4,6 +4,8 @@ description: Lecture notes about sedimentary structures.
 file: /courses/12-110-sedimentary-geology-spring-2007/1b78c74af7ef300050b88a24adfaa78d_ch3.pdf
 file_size: 4341613
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

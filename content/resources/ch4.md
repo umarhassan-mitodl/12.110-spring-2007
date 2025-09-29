@@ -4,6 +4,8 @@ description: Lecture notes about siliciclastic rocks.
 file: /courses/12-110-sedimentary-geology-spring-2007/6f0f15dd329fb557b8dcdc7f66299f5b_ch4.pdf
 file_size: 1740783
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture notes about Paleontology and Precambrian life.
 file: /courses/12-110-sedimentary-geology-spring-2007/c97067bd015c0688cedf9c186219b3e0_ch9a.pdf
 file_size: 3636451
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

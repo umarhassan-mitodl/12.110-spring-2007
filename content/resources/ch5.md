@@ -4,6 +4,8 @@ description: Lecture notes about limestones.
 file: /courses/12-110-sedimentary-geology-spring-2007/b66608c6883c8d1512c36e49504f8b7a_ch5.pdf
 file_size: 3449686
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

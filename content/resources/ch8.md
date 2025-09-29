@@ -4,6 +4,8 @@ description: Lecture notes about stratigraphy.
 file: /courses/12-110-sedimentary-geology-spring-2007/8270dd2992e52d6e834efe19038dcf61_ch8.pdf
 file_size: 3458911
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Sample student Field Trip Report.
 file: /courses/12-110-sedimentary-geology-spring-2007/147bcecadf298f3093f0d5f177112254_safipour.pdf
 file_size: 406075
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

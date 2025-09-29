@@ -4,6 +4,8 @@ description: Lecture notes about paleontology, brachiopods, and fossils.
 file: /courses/12-110-sedimentary-geology-spring-2007/bb0f11d80a71f0c05857b8c82dcca1ab_ch9b.pdf
 file_size: 84494
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
